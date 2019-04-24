@@ -1,6 +1,6 @@
 package pack_A;
 import java.util.*;
-//test
+
 class elem{
 	String word = "";
 	elem (String word){
