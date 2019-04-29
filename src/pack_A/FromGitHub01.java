@@ -6,5 +6,5 @@ public class FromGitHub01 {
 	}
 }
 //merge and updated version from local
-//updated part from local aaa
+//updated part from local aaa bbb
 //updated part from remote: aaa
