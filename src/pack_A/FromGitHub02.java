@@ -6,4 +6,4 @@ public class FromGitHub02 {
 	}
 }
 //from remote
-//from local
+//from local//
