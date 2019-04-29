@@ -9,4 +9,4 @@ class Remote03{
 	void method () {
 		System.out.println("one more update!");//merged!
 	}
-}
+}  
