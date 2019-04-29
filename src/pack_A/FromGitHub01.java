@@ -4,5 +4,6 @@ import java.util.*;
 class FromLocal{}
 class FromLocal02{}
 class FromRemote{}
+class FromRemote02{}
 public class FromGitHub01 {
 }
