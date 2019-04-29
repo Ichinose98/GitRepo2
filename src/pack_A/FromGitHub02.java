@@ -5,5 +5,5 @@ public class FromGitHub02 {
 	void methodSample () {
 	}
 }
-//from remote
+//from remote  
 //from local
